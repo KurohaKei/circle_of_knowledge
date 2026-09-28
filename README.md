@@ -1,9 +1,6 @@
 # circle_of_knowledge
 In-depth learning materials implementing chart-based hierarchical data management
 
-# circle_of_knowledge
-In-depth learning materials implementing chart-based hierarchical data management
-
 // Initial Skeleton //
 circle_of_knowledge/
 ├── README.md
